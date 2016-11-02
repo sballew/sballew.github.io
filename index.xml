@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sean Ballew</title>
-    <link>http://seanballew.com/index.xml</link>
+    <link>http://sballew.github.io/index.xml</link>
     <description>Recent content on Sean Ballew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
-    <atom:link href="http://seanballew.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://sballew.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Projects</title>
-      <link>http://seanballew.com/projects/</link>
+      <link>http://sballew.github.io/projects/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>http://seanballew.com/projects/</guid>
+      <guid>http://sballew.github.io/projects/</guid>
       <description>&lt;section id=&#34;projects&#34;&gt;
   &lt;div class=&#34;container&#34;&gt;
     &lt;h3&gt;Projects&lt;/h3&gt;
