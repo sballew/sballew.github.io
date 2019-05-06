@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sean Ballew</title>
-    <link>http://50.35.126.216:1313/</link>
+    <link>http://seanballew.com/</link>
     <description>Recent content on Sean Ballew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://50.35.126.216:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://seanballew.com/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
