@@ -2,23 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sean Ballew</title>
-    <link>//seanballew.com/</link>
+    <link>http://50.35.126.216:1313/</link>
     <description>Recent content on Sean Ballew</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    <language>en-us</language>
     
-	<atom:link href="//seanballew.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://50.35.126.216:1313/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Projects</title>
-      <link>//seanballew.com/projects/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>//seanballew.com/projects/</guid>
-      <description>Projects  &amp;nbsp;&amp;nbsp;Project 1 - Ei viderer tacimates pro, quem assum ea nam. Veritus omnesque eam te. Et natum mucius tamquam vel, ea dolorem volumus deterruisset nec. Graeci mentitum sea an, eu prima elaboraret est.   &amp;nbsp;&amp;nbsp;Project 2 - An eripuit phaedrum qui, nec facer splendide ex, vel ea assum facilisi convenire. Te his neglegentur consectetuer.   &amp;nbsp;&amp;nbsp;Project 3 - An alii quot tantas eum, doming platonem persecuti mea et, vim perpetua cotidieque delicatissimi in.</description>
-    </item>
     
   </channel>
 </rss>
