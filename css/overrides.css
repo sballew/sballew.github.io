@@ -1,3 +1,13 @@
 .main-content {
   max-width: none;
 }
+
+.sidebar .main-info .btn {
+  margin-bottom: 10px;
+}
+
+@media (max-width: 767px) {
+  .sidebar-btn-container {
+    text-align: center;
+  }
+}
